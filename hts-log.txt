@@ -1,0 +1,60 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 13 Sep 2024 00:07:12 at https://www.onetouchhealth.net/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.onetouchhealth.net/ -O1 "E:\New folder\HomeCareManagement" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:08:51	Error: 	"Method Not Allowed" (405) at link https://www.onetouchhealth.net/wp/xmlrpc.php (from https://www.onetouchhealth.net/)
+00:08:51	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.onetouchhealth.net/)
+00:13:43	Warning: 	Moved Permanently for https://www.onetouchhealth.net/?p=19
+00:13:43	Warning: 	File has moved from https://www.onetouchhealth.net/?p=19 to https://www.onetouchhealth.net/solution
+00:13:43	Warning: 	Moved Permanently for https://www.onetouchhealth.net/?p=27
+00:13:43	Warning: 	File has moved from https://www.onetouchhealth.net/?p=27 to https://www.onetouchhealth.net/solutions-2
+00:13:43	Warning: 	Moved Permanently for https://www.onetouchhealth.net/?p=31
+00:13:43	Warning: 	File has moved from https://www.onetouchhealth.net/?p=31 to https://www.onetouchhealth.net/client
+00:13:43	Warning: 	Moved Permanently for https://www.onetouchhealth.net/?p=29
+00:13:43	Warning: 	File has moved from https://www.onetouchhealth.net/?p=29 to https://www.onetouchhealth.net/family-app
+00:13:43	Warning: 	Moved Permanently for https://www.onetouchhealth.net/?p=194
+00:13:43	Warning: 	File has moved from https://www.onetouchhealth.net/?p=194 to https://www.onetouchhealth.net/carers
+00:13:43	Warning: 	Moved Permanently for https://www.onetouchhealth.net/?p=682
+00:13:43	Warning: 	File has moved from https://www.onetouchhealth.net/?p=682 to https://www.onetouchhealth.net/back-office-solutions
+00:13:43	Warning: 	Moved Permanently for https://www.onetouchhealth.net/?p=1654
+00:13:43	Warning: 	File has moved from https://www.onetouchhealth.net/?p=1654 to https://www.onetouchhealth.net/governance
+00:13:43	Warning: 	Moved Permanently for https://www.onetouchhealth.net/?p=1619
+00:13:43	Warning: 	File has moved from https://www.onetouchhealth.net/?p=1619 to https://www.onetouchhealth.net/auditing
+00:13:43	Warning: 	Moved Permanently for https://www.onetouchhealth.net/?p=1923
+00:13:43	Warning: 	File has moved from https://www.onetouchhealth.net/?p=1923 to https://www.onetouchhealth.net/invoicing-and-payroll
+00:13:43	Warning: 	Moved Permanently for https://www.onetouchhealth.net/?p=3347
+00:13:43	Warning: 	File has moved from https://www.onetouchhealth.net/?p=3347 to https://www.onetouchhealth.net/care-industries
+00:13:43	Warning: 	Moved Permanently for https://www.onetouchhealth.net/?p=3193
+00:13:43	Warning: 	File has moved from https://www.onetouchhealth.net/?p=3193 to https://www.onetouchhealth.net/home-care
+00:13:43	Warning: 	Moved Permanently for https://www.onetouchhealth.net/?p=3305
+00:13:43	Warning: 	File has moved from https://www.onetouchhealth.net/?p=3305 to https://www.onetouchhealth.net/residential-care
+00:13:43	Warning: 	Moved Permanently for https://www.onetouchhealth.net/?p=3313
+00:13:43	Warning: 	File has moved from https://www.onetouchhealth.net/?p=3313 to https://www.onetouchhealth.net/day-care
+00:13:43	Warning: 	Moved Permanently for https://www.onetouchhealth.net/?p=3329
+00:13:43	Warning: 	File has moved from https://www.onetouchhealth.net/?p=3329 to https://www.onetouchhealth.net/reablement-services
+00:13:43	Warning: 	Moved Permanently for https://www.onetouchhealth.net/?p=3338
+00:13:43	Warning: 	File has moved from https://www.onetouchhealth.net/?p=3338 to https://www.onetouchhealth.net/learning-disability-support-services
+00:13:43	Warning: 	Moved Permanently for https://www.onetouchhealth.net/?p=3318
+00:13:43	Warning: 	File has moved from https://www.onetouchhealth.net/?p=3318 to https://www.onetouchhealth.net/disability-support
+00:13:43	Warning: 	Moved Permanently for https://www.onetouchhealth.net/?p=21
+00:13:43	Warning: 	File has moved from https://www.onetouchhealth.net/?p=21 to https://www.onetouchhealth.net/about-us
+00:13:43	Warning: 	Moved Permanently for https://www.onetouchhealth.net/?p=2863
+00:13:43	Warning: 	File has moved from https://www.onetouchhealth.net/?p=2863 to https://www.onetouchhealth.net/company-history
+00:13:43	Warning: 	Moved Permanently for https://www.onetouchhealth.net/?p=1633
+00:13:43	Warning: 	File has moved from https://www.onetouchhealth.net/?p=1633 to https://www.onetouchhealth.net/customer-success
+00:13:43	Warning: 	Moved Permanently for https://www.onetouchhealth.net/?p=676
+00:13:43	Warning: 	File has moved from https://www.onetouchhealth.net/?p=676 to https://www.onetouchhealth.net/customer-support
+00:13:43	Warning: 	Moved Permanently for https://www.onetouchhealth.net/?p=115
+00:13:43	Warning: 	File has moved from https://www.onetouchhealth.net/?p=115 to https://www.onetouchhealth.net/quality
+00:13:43	Warning: 	Moved Permanently for https://www.onetouchhealth.net/?p=2233
+00:13:43	Warning: 	File has moved from https://www.onetouchhealth.net/?p=2233 to https://www.onetouchhealth.net/case-studies
+00:13:45	Warning: 	Moved Permanently for https://www.onetouchhealth.net/?p=35
+00:13:45	Warning: 	File has moved from https://www.onetouchhealth.net/?p=35 to https://www.onetouchhealth.net/news-and-events
+00:14:30	Warning: 	Moved Permanently for https://www.onetouchhealth.net/?p=2820
+00:14:30	Warning: 	File has moved from https://www.onetouchhealth.net/?p=2820 to https://www.onetouchhealth.net/faqs
+00:14:30	Warning: 	Moved Permanently for https://www.onetouchhealth.net/?p=25
+00:14:30	Warning: 	File has moved from https://www.onetouchhealth.net/?p=25 to https://www.onetouchhealth.net/careers
